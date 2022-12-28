@@ -2,7 +2,7 @@
 A Project by: Tung Phung, Josh Robin, Roohullah Mansoor
 
 <p align="center">
-  <img width="320" height="260" src="https://ya-webdesign.com/images/twitter-clipart-11.png">
+  <img width="320" height="260" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg">
 </p>
 
 ## Goals:
